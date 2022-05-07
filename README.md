@@ -3,7 +3,7 @@
 ## Overview
 This is a program that does 3 basic function it does Gaussian Elimination on a 2 by 2 matrix?, Trapizoidal Intigration on a simple Polynomial, and the Quadratice Formula.
 The reason for this software is to show the power of C++ math.
-
+[Software Demo Video](https://youtu.be/YJDPCKJzmMY)
 ## Development Environment
  - Visual Studio 2022
  - C++
